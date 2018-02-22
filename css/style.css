@@ -36,8 +36,13 @@ header {
   padding: 20px 0;
 }
 
+.input {
+  height: 26px;
+}
+
 form[name="search"] {
     float: right;
+    display: flex;
 }
 
 nav {
